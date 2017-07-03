@@ -10,3 +10,5 @@ _00_programa_carro: Programação em Arduino
 Desenhos técnicos.pdf: Desenhos técnicos da estrutura do carrinho
 
 CAD 3D.step: Desenho 3D em formato STEP do carrinho
+
+Carrinho-360p.mp4: Vídeo do carrinho em funcionamento
